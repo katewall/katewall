@@ -1,7 +1,8 @@
-# Background
+# Hello, I'm Kate Wall
 <img src="https://github.com/katewall/katewall/blob/main/LinkedIn%20Cover.png" alt="banner">
-### Bio
-My name is Kate Wall. I'm a biostatistics PhD student and chemical engineer.
+
+## Bio
+- biostatistics PhD student & chemical engineer
 - Research neural networks for time series data 
 - Featured in Towards Data Science and The Startup 
 - Publish mathematics and machine learning content through Medium
