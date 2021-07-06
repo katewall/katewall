@@ -1,5 +1,4 @@
 # Hello, I'm Kate Wall
-<img src="https://github.com/katewall/katewall/blob/main/LinkedIn%20Cover.png" alt="banner">
 
 ## Bio
 - biostatistics PhD student & chemical engineer
@@ -24,3 +23,4 @@
 <!-- BLOG-POST-LIST:END -->
 <br>
 <br>
+<img src="https://github.com/katewall/katewall/blob/main/LinkedIn%20Cover.png" alt="banner">
