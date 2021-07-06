@@ -1,5 +1,5 @@
 # Background
-<img src="https://github.com/katewall/katewall/LinkedIn Cover.png" alt="banner">
+<img src="https://github.com/katewall/katewall/LinkedIn%20Cover.png" alt="banner">
 ### Bio
 My name is Kate Wall. I'm a biostatistics PhD student and chemical engineer.
 - Research neural networks for time series data 
