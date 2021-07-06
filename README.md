@@ -16,7 +16,10 @@ My name is Kate Wall. I'm a biostatistics PhD student and chemical engineer.
 
 ## Posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Access Google Drive Using Google Colab Running an R Kernel](https://towardsdatascience.com/access-google-drive-using-google-colab-running-an-r-kernel-3736db7835?source=rss-dccf6b066551------2)
+- [How to Analyze Continuous Data from Two Groups](https://towardsdatascience.com/how-to-analyze-continuous-data-from-two-groups-8d101510790f?source=rss-dccf6b066551------2)
+- [Professional Venn diagrams in python](https://towardsdatascience.com/professional-venn-diagrams-in-python-638abfff39cc?source=rss-dccf6b066551------2)
+- [Series on Theories: High Dimensional Data 101](https://medium.com/swlh/series-on-theories-high-dimensional-data-101-81cab8e0bea6?source=rss-dccf6b066551------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <br>
