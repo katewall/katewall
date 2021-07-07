@@ -31,4 +31,4 @@
 <!-- BLOG-POST-LIST:END -->
 <br>
 <br>
-<img src="https://github.com/katewall/katewall/blob/main/LinkedIn%20Cover.png" alt="banner">
+<!img src="https://github.com/katewall/katewall/blob/main/LinkedIn%20Cover.png" alt="banner">
