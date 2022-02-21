@@ -22,7 +22,7 @@
 <img align="left" alt="Sheets" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
 <br>
 
-## Posts
+## Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [Professional Treemaps in Python: How to Customize Matplotlib &amp; Squarify](https://towardsdatascience.com/professional-treemaps-in-python-how-to-customize-matplotlib-squarify-efd5dc4c8755?source=rss-dccf6b066551------2)
 - [Probability for Data Scientists: The Great Geometric Distribution](https://towardsdatascience.com/probability-for-data-scientists-the-great-geometric-distribution-586ce424c26b?source=rss-dccf6b066551------2)
