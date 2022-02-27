@@ -24,11 +24,11 @@
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [Professional Treemaps in Python: How to Customize Matplotlib &amp; Squarify](https://towardsdatascience.com/professional-treemaps-in-python-how-to-customize-matplotlib-squarify-efd5dc4c8755?source=rss-dccf6b066551------2)
+- [Probability for Data Scientists: The Capable Chi-Squared Distribution](https://towardsdatascience.com/probability-for-data-scientists-the-capable-chi-squared-distribution-abced58fa157?source=rss-dccf6b066551------2)
+- [Level Up with Python: Quickly Produce PDFs with Stunning Visuals](https://towardsdatascience.com/level-up-with-python-quickly-produce-pdfs-with-stunning-visuals-d6750c9c7be2?source=rss-dccf6b066551------2)
+- [Professional Treemaps in Python: The Better Alternative to a Pie Chart](https://towardsdatascience.com/professional-treemaps-in-python-how-to-customize-matplotlib-squarify-efd5dc4c8755?source=rss-dccf6b066551------2)
 - [Probability for Data Scientists: The Great Geometric Distribution](https://towardsdatascience.com/probability-for-data-scientists-the-great-geometric-distribution-586ce424c26b?source=rss-dccf6b066551------2)
 - [Probability Distributions for Beginners](https://towardsdatascience.com/probability-distributions-for-beginners-d14f59aba2cb?source=rss-dccf6b066551------2)
-- [Access Google Drive Using Google Colab Running an R Kernel](https://towardsdatascience.com/access-google-drive-using-google-colab-running-an-r-kernel-3736db7835?source=rss-dccf6b066551------2)
-- [How to Analyze Continuous Data from Two Groups](https://towardsdatascience.com/how-to-analyze-continuous-data-from-two-groups-8d101510790f?source=rss-dccf6b066551------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <br>
