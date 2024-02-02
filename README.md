@@ -1,7 +1,7 @@
 # Hello, I'm Kate Wall
 
 ## Bio
-- Biostatistics PhD student & chemical engineer
+- PhD in Biostatistics & Chemical Engineering EIT
 - Research neural networks for time series data 
 - Featured in Towards Data Science and The Startup 
 - Publish mathematics and machine learning content through Medium
